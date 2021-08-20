@@ -1,3 +1,7 @@
+import eu.mihosoft.vrl.v3d.CSG
+import eu.mihosoft.vrl.v3d.Cube
+import eu.mihosoft.vrl.v3d.Cylinder
+
 //Your code here
 CSG myCylinder = new Cylinder(30.56/2.0, // Radius at the bottom
                       		28.71/2.0, // Radius at the top
